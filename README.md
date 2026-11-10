@@ -3,7 +3,7 @@
 Небольшие сервисы, которые работают: Telegram-боты, парсеры, мониторинг.
 Пишу на Go, Python и Rust, закрываю тестами и запускаю в Docker.
 
-[Сайт с кейсами](https://hopfi3721.github.io) · [Telegram](https://t.me/vospw)
+[Сайт с кейсами](https://hopfi3721.github.io) · [Telegram](https://t.me/vospv)
 
 ![Go](https://img.shields.io/badge/Go-1.26-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
